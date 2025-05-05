@@ -1,4 +1,3 @@
-
 package com.example;
 
 import org.openqa.selenium.WebDriver;
@@ -28,4 +27,5 @@ public class MiniTest {
         }
     }
 }
+
 
